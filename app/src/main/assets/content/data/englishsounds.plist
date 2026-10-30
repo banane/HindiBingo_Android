@@ -8,6 +8,12 @@
 	<string>garbage_can</string>
 	<key>living room</key>
 	<string>living_room</string>
+	<key>lower floor</key>
+	<string>lower_floor</string>
+	<key>pressure cooker</key>
+	<string>pressure_cooker</string>
+	<key>rolling pin</key>
+	<string>rolling_pin</string>
 	<key>second floor</key>
 	<string>second_floor</string>
 	<key>to cook</key>
