@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>कटोरी</key>
+	<string>bowl</string>
+	<key>कड़ाही</key>
+	<string>wok</string>
+	<key>काँटा</key>
+	<string>fork</string>
+	<key>कुर्सी</key>
+	<string>chair</string>
+	<key>कूड़ेदान</key>
+	<string>garbage can</string>
+	<key>केतली</key>
+	<string>kettle</string>
+	<key>गिलास</key>
+	<string>glass</string>
+	<key>चम्मच</key>
+	<string>spoon</string>
+	<key>चाकू</key>
+	<string>knife</string>
+	<key>चूल्हा</key>
+	<string>stove</string>
+	<key>तवा</key>
+	<string>griddle</string>
+	<key>तश्तरी</key>
+	<string>saucer</string>
+	<key>थाली</key>
+	<string>plate</string>
+	<key>नमक</key>
+	<string>salt</string>
+	<key>पकाना</key>
+	<string>to cook</string>
+	<key>पानी</key>
+	<string>water</string>
+	<key>प्याला</key>
+	<string>cup</string>
+	<key>प्रेशर कुकर</key>
+	<string>pressure cooker</string>
+	<key>फ़्रिज</key>
+	<string>refrigerator</string>
+	<key>बर्तन</key>
+	<string>dishes</string>
+	<key>बेलन</key>
+	<string>rolling pin</string>
+	<key>मसाले</key>
+	<string>spices</string>
+	<key>मेज़</key>
+	<string>table</string>
+	<key>शेल्फ़</key>
+	<string>shelf</string>
+	<key>सिंक</key>
+	<string>sink</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bowl</key>
+	<string>kaṭorī</string>
+	<key>chair</key>
+	<string>kursī</string>
+	<key>cup</key>
+	<string>pyālā</string>
+	<key>dishes</key>
+	<string>bartan</string>
+	<key>fork</key>
+	<string>kā̃ṭā</string>
+	<key>garbage can</key>
+	<string>kūṛedān</string>
+	<key>glass</key>
+	<string>gilās</string>
+	<key>griddle</key>
+	<string>tavā</string>
+	<key>kettle</key>
+	<string>ketlī</string>
+	<key>knife</key>
+	<string>chākū</string>
+	<key>plate</key>
+	<string>thālī</string>
+	<key>pressure cooker</key>
+	<string>presher kukar</string>
+	<key>refrigerator</key>
+	<string>frij</string>
+	<key>rolling pin</key>
+	<string>belan</string>
+	<key>salt</key>
+	<string>namak</string>
+	<key>saucer</key>
+	<string>tashtarī</string>
+	<key>shelf</key>
+	<string>shelf</string>
+	<key>sink</key>
+	<string>sink</string>
+	<key>spices</key>
+	<string>masāle</string>
+	<key>spoon</key>
+	<string>chammach</string>
+	<key>stove</key>
+	<string>chūlhā</string>
+	<key>table</key>
+	<string>mez</string>
+	<key>to cook</key>
+	<string>pakānā</string>
+	<key>water</key>
+	<string>pānī</string>
+	<key>wok</key>
+	<string>kaṛāhī</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+{
+    "appName": "हिंदी Bingo",
+    "language": "Hindi",
+    "baseLevelCount": 3,
+    "productID": "hi_bingo_1",
+    "packForSale": false,
+    "winCheers": ["great","excellent"],
+    "startWord": "शुरू करें shurū karẽ",
+    "script": {
+        "native": "devanagari",
+        "romanized": "roman",
+        "nativeLabel": "देवनागरी",
+        "romanizedLabel": "Roman",
+        "winCheers": ["great","excellent"]
+    },
+    "testerPasswordHash": "f12864a094b24cce5f0dee43c5bc3b59d01d3bdb872d57c29a8f975973ca3fb8",
+    "credits": [{ "heading": "Hindi audio", "lines": ["रुत्वी Ruthvi"] },
+        { "heading": "English audio", "lines": ["Anna Billstrom"] }]
+}

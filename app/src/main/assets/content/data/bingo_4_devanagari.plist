@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>auto-rickshaw</key>
+	<string>ऑटो-रिक्शा</string>
+	<key>bill</key>
+	<string>बिल</string>
+	<key>cafe</key>
+	<string>कैफ़े</string>
+	<key>dinner</key>
+	<string>रात का खाना</string>
+	<key>evening</key>
+	<string>शाम</string>
+	<key>fair</key>
+	<string>मेला</string>
+	<key>festival</key>
+	<string>त्योहार</string>
+	<key>friends</key>
+	<string>दोस्त</string>
+	<key>market</key>
+	<string>बाज़ार</string>
+	<key>metro</key>
+	<string>मेट्रो</string>
+	<key>movies</key>
+	<string>फ़िल्में</string>
+	<key>music</key>
+	<string>संगीत</string>
+	<key>party</key>
+	<string>पार्टी</string>
+	<key>restaurant</key>
+	<string>रेस्टोरेंट</string>
+	<key>seat</key>
+	<string>सीट</string>
+	<key>snack</key>
+	<string>नाश्ता</string>
+	<key>song</key>
+	<string>गाना</string>
+	<key>sweets</key>
+	<string>मिठाई</string>
+	<key>tea</key>
+	<string>चाय</string>
+	<key>theater</key>
+	<string>थिएटर</string>
+	<key>tickets</key>
+	<string>टिकट</string>
+	<key>to dance</key>
+	<string>नाचना</string>
+	<key>to drink</key>
+	<string>पीना</string>
+	<key>to hang out</key>
+	<string>घूमना</string>
+	<key>wedding</key>
+	<string>शादी</string>
+</dict>
+</plist>

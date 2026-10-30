@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>आरामकुर्सी</key>
+	<string>armchair</string>
+	<key>खिड़की</key>
+	<string>window</string>
+	<key>गलियारा</key>
+	<string>hallway</string>
+	<key>गैराज</key>
+	<string>garage</string>
+	<key>घर</key>
+	<string>house</string>
+	<key>छत</key>
+	<string>ceiling</string>
+	<key>तहख़ाना</key>
+	<string>basement</string>
+	<key>दरवाज़ा</key>
+	<string>door</string>
+	<key>दीवार</key>
+	<string>wall</string>
+	<key>निचली मंज़िल</key>
+	<string>lower floor</string>
+	<key>पहली मंज़िल</key>
+	<string>second floor</string>
+	<key>फ़र्श</key>
+	<string>floor</string>
+	<key>फ़्लैट</key>
+	<string>apartment</string>
+	<key>बगीचा</key>
+	<string>garden</string>
+	<key>बाल्टी</key>
+	<string>bucket</string>
+	<key>बिस्तर</key>
+	<string>bed</string>
+	<key>बैठक</key>
+	<string>living room</string>
+	<key>भोजन कक्ष</key>
+	<string>dining room</string>
+	<key>रसोई</key>
+	<string>kitchen</string>
+	<key>शावर</key>
+	<string>shower</string>
+	<key>शौचालय</key>
+	<string>toilet</string>
+	<key>सीढ़ियाँ</key>
+	<string>stairs</string>
+	<key>सोने का कमरा</key>
+	<string>bedroom</string>
+	<key>सोफ़ा</key>
+	<string>sofa</string>
+	<key>स्नानघर</key>
+	<string>bathroom</string>
+</dict>
+</plist>

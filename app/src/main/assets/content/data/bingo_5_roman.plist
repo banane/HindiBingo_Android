@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Internet</key>
+	<string>iṇṭarneṭ</string>
+	<key>Wi-Fi</key>
+	<string>vāī-fāī</string>
+	<key>battery</key>
+	<string>baiṭrī</string>
+	<key>camera</key>
+	<string>kaimrā</string>
+	<key>charger</key>
+	<string>chārjar</string>
+	<key>computer</key>
+	<string>kampyūṭar</string>
+	<key>electricity</key>
+	<string>bijlī</string>
+	<key>email</key>
+	<string>īmel</string>
+	<key>information</key>
+	<string>jānkārī</string>
+	<key>laptop</key>
+	<string>laipṭŏp</string>
+	<key>message</key>
+	<string>sandesh</string>
+	<key>mobile phone</key>
+	<string>mobāil fon</string>
+	<key>password</key>
+	<string>pāsvarḍ</string>
+	<key>phone number</key>
+	<string>fon nambar</string>
+	<key>photos</key>
+	<string>tasvīrẽ</string>
+	<key>registration</key>
+	<string>panjīkaraṇ</string>
+	<key>screen</key>
+	<string>skrīn</string>
+	<key>to call</key>
+	<string>fon karnā</string>
+	<key>to download</key>
+	<string>ḍāunloḍ karnā</string>
+	<key>to search</key>
+	<string>khojnā</string>
+	<key>to send</key>
+	<string>bhejnā</string>
+	<key>to turn on</key>
+	<string>chālū karnā</string>
+	<key>video</key>
+	<string>vīḍiyo</string>
+	<key>website</key>
+	<string>vebsāiṭ</string>
+	<key>wire</key>
+	<string>tār</string>
+</dict>
+</plist>

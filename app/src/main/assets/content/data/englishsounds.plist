@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dining room</key>
+	<string>dining_room</string>
+	<key>garbage can</key>
+	<string>garbage_can</string>
+	<key>living room</key>
+	<string>living_room</string>
+	<key>second floor</key>
+	<string>second_floor</string>
+	<key>to cook</key>
+	<string>to_cook</string>
+	<key>washing machine</key>
+	<string>washing_machine</string>
+</dict>
+</plist>

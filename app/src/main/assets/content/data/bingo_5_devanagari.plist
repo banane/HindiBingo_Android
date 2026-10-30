@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Internet</key>
+	<string>इंटरनेट</string>
+	<key>Wi-Fi</key>
+	<string>वाई-फ़ाई</string>
+	<key>battery</key>
+	<string>बैटरी</string>
+	<key>camera</key>
+	<string>कैमरा</string>
+	<key>charger</key>
+	<string>चार्जर</string>
+	<key>computer</key>
+	<string>कंप्यूटर</string>
+	<key>electricity</key>
+	<string>बिजली</string>
+	<key>email</key>
+	<string>ईमेल</string>
+	<key>information</key>
+	<string>जानकारी</string>
+	<key>laptop</key>
+	<string>लैपटॉप</string>
+	<key>message</key>
+	<string>संदेश</string>
+	<key>mobile phone</key>
+	<string>मोबाइल फ़ोन</string>
+	<key>password</key>
+	<string>पासवर्ड</string>
+	<key>phone number</key>
+	<string>फ़ोन नंबर</string>
+	<key>photos</key>
+	<string>तस्वीरें</string>
+	<key>registration</key>
+	<string>पंजीकरण</string>
+	<key>screen</key>
+	<string>स्क्रीन</string>
+	<key>to call</key>
+	<string>फ़ोन करना</string>
+	<key>to download</key>
+	<string>डाउनलोड करना</string>
+	<key>to search</key>
+	<string>खोजना</string>
+	<key>to send</key>
+	<string>भेजना</string>
+	<key>to turn on</key>
+	<string>चालू करना</string>
+	<key>video</key>
+	<string>वीडियो</string>
+	<key>website</key>
+	<string>वेबसाइट</string>
+	<key>wire</key>
+	<string>तार</string>
+</dict>
+</plist>

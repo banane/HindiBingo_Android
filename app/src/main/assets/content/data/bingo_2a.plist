@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>अंगूठी</key>
+	<string>ring</string>
+	<key>अलमारी</key>
+	<string>closet</string>
+	<key>इस्त्री</key>
+	<string>iron</string>
+	<key>कपड़े</key>
+	<string>clothes</string>
+	<key>कमीज़</key>
+	<string>shirt</string>
+	<key>कुर्ता</key>
+	<string>kurta</string>
+	<key>कोट</key>
+	<string>coat</string>
+	<key>चप्पल</key>
+	<string>sandals</string>
+	<key>चूड़ियाँ</key>
+	<string>bangles</string>
+	<key>जूते</key>
+	<string>shoes</string>
+	<key>जेब</key>
+	<string>pocket</string>
+	<key>जैकेट</key>
+	<string>jacket</string>
+	<key>टाई</key>
+	<string>tie</string>
+	<key>टोपी</key>
+	<string>hat</string>
+	<key>दस्ताने</key>
+	<string>gloves</string>
+	<key>पतलून</key>
+	<string>pants</string>
+	<key>पोशाक</key>
+	<string>dress</string>
+	<key>बटन</key>
+	<string>button</string>
+	<key>बेल्ट</key>
+	<string>belt</string>
+	<key>ब्लाउज़</key>
+	<string>blouse</string>
+	<key>मोज़े</key>
+	<string>socks</string>
+	<key>वॉशिंग मशीन</key>
+	<string>washing machine</string>
+	<key>शॉल</key>
+	<string>shawl</string>
+	<key>साड़ी</key>
+	<string>sari</string>
+	<key>स्वेटर</key>
+	<string>sweater</string>
+</dict>
+</plist>

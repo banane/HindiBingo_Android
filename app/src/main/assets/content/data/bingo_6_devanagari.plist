@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aunt (father's sister)</key>
+	<string>बुआ</string>
+	<key>aunt (mother's sister)</key>
+	<string>मौसी</string>
+	<key>bride</key>
+	<string>दुल्हन</string>
+	<key>brother</key>
+	<string>भाई</string>
+	<key>child</key>
+	<string>बच्चा</string>
+	<key>dad</key>
+	<string>पापा</string>
+	<key>daughter</key>
+	<string>बेटी</string>
+	<key>family</key>
+	<string>परिवार</string>
+	<key>father</key>
+	<string>पिता</string>
+	<key>grandma (father's mother)</key>
+	<string>दादी</string>
+	<key>grandma (mother's mother)</key>
+	<string>नानी</string>
+	<key>grandpa (father's father)</key>
+	<string>दादा</string>
+	<key>grandpa (mother's father)</key>
+	<string>नाना</string>
+	<key>groom</key>
+	<string>दूल्हा</string>
+	<key>husband</key>
+	<string>पति</string>
+	<key>mom</key>
+	<string>मम्मी</string>
+	<key>mother</key>
+	<string>माँ</string>
+	<key>nephew (brother's son)</key>
+	<string>भतीजा</string>
+	<key>niece (brother's daughter)</key>
+	<string>भतीजी</string>
+	<key>parents</key>
+	<string>माता-पिता</string>
+	<key>sister</key>
+	<string>बहन</string>
+	<key>son</key>
+	<string>बेटा</string>
+	<key>uncle (father's brother)</key>
+	<string>चाचा</string>
+	<key>uncle (mother's brother)</key>
+	<string>मामा</string>
+	<key>wife</key>
+	<string>पत्नी</string>
+</dict>
+</plist>

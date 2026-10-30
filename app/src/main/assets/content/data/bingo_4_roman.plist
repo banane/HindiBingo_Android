@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>auto-rickshaw</key>
+	<string>ŏṭo-rikshā</string>
+	<key>bill</key>
+	<string>bil</string>
+	<key>cafe</key>
+	<string>kaife</string>
+	<key>dinner</key>
+	<string>rāt kā khānā</string>
+	<key>evening</key>
+	<string>shām</string>
+	<key>fair</key>
+	<string>melā</string>
+	<key>festival</key>
+	<string>tyohār</string>
+	<key>friends</key>
+	<string>dost</string>
+	<key>market</key>
+	<string>bāzār</string>
+	<key>metro</key>
+	<string>meṭro</string>
+	<key>movies</key>
+	<string>filmẽ</string>
+	<key>music</key>
+	<string>sangīt</string>
+	<key>party</key>
+	<string>pārṭī</string>
+	<key>restaurant</key>
+	<string>resṭoreṇṭ</string>
+	<key>seat</key>
+	<string>sīṭ</string>
+	<key>snack</key>
+	<string>nāshtā</string>
+	<key>song</key>
+	<string>gānā</string>
+	<key>sweets</key>
+	<string>miṭhāī</string>
+	<key>tea</key>
+	<string>chāy</string>
+	<key>theater</key>
+	<string>thieṭar</string>
+	<key>tickets</key>
+	<string>ṭikaṭ</string>
+	<key>to dance</key>
+	<string>nāchnā</string>
+	<key>to drink</key>
+	<string>pīnā</string>
+	<key>to hang out</key>
+	<string>ghūmnā</string>
+	<key>wedding</key>
+	<string>shādī</string>
+</dict>
+</plist>

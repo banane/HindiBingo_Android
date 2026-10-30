@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apartment</key>
+	<string>फ़्लैट</string>
+	<key>armchair</key>
+	<string>आरामकुर्सी</string>
+	<key>basement</key>
+	<string>तहख़ाना</string>
+	<key>bathroom</key>
+	<string>स्नानघर</string>
+	<key>bed</key>
+	<string>बिस्तर</string>
+	<key>bedroom</key>
+	<string>सोने का कमरा</string>
+	<key>bucket</key>
+	<string>बाल्टी</string>
+	<key>ceiling</key>
+	<string>छत</string>
+	<key>dining room</key>
+	<string>भोजन कक्ष</string>
+	<key>door</key>
+	<string>दरवाज़ा</string>
+	<key>floor</key>
+	<string>फ़र्श</string>
+	<key>garage</key>
+	<string>गैराज</string>
+	<key>garden</key>
+	<string>बगीचा</string>
+	<key>hallway</key>
+	<string>गलियारा</string>
+	<key>house</key>
+	<string>घर</string>
+	<key>kitchen</key>
+	<string>रसोई</string>
+	<key>living room</key>
+	<string>बैठक</string>
+	<key>lower floor</key>
+	<string>निचली मंज़िल</string>
+	<key>second floor</key>
+	<string>पहली मंज़िल</string>
+	<key>shower</key>
+	<string>शावर</string>
+	<key>sofa</key>
+	<string>सोफ़ा</string>
+	<key>stairs</key>
+	<string>सीढ़ियाँ</string>
+	<key>toilet</key>
+	<string>शौचालय</string>
+	<key>wall</key>
+	<string>दीवार</string>
+	<key>window</key>
+	<string>खिड़की</string>
+</dict>
+</plist>

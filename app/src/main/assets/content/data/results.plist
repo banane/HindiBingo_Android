@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1 head</key>
+	<string>Rani Lakshmibai salutes you!</string>
+	<key>1 bio</key>
+	<string>रानी लक्ष्मीबाई Rānī Lakshmībāī, the Rani of Jhansi, led her troops against the British East India Company in the uprising of 1857. Legend says she leapt from the walls of Jhansi fort on horseback with her young son tied to her back. She died in battle near Gwalior in 1858, still in her twenties, and India remembers her as a symbol of courage. You&apos;ve explored the whole घर ghar, from the दरवाज़ा darvāzā to the सीढ़ियाँ sīṛhiyā̃. Next up: Clothing. Accounts say she rode into battle dressed as a cavalryman.</string>
+	<key>1 img1</key>
+	<string>lakshmi1.jpeg</string>
+	<key>1 img2</key>
+	<string>lakshmi2.jpeg</string>
+	<key>2 head</key>
+	<string>Tenali Rama thinks you&apos;re clever!</string>
+	<key>2 bio</key>
+	<string>तेनाली राम Tenālī Rām, the poet Tenali Ramakrishna, served at the 16th-century court of King Krishnadevaraya of Vijayanagara. Folk tales remember him as the cleverest man in the kingdom, who could talk his way out of any punishment with a joke. You&apos;ve filled the अलमारी almārī, from the कुर्ता kurtā to the साड़ी sāṛī. Next up: In the kitchen, one more round to go! In one story he cured a royal cat of loving milk by serving it scalding hot.</string>
+	<key>2 img1</key>
+	<string>tenalirama1.jpeg</string>
+	<key>2 img2</key>
+	<string>tenalirama2.jpeg</string>
+	<key>3 head</key>
+	<string>Aryabhata figures you&apos;re a genius!</string>
+	<key>3 bio</key>
+	<string>आर्यभट Āryabhaṭ was 23 when he wrote the Aryabhatiya in 499 CE. He worked out π as 3.1416 and taught that the Earth spins on its axis, about a thousand years before Copernicus. India named its first satellite after him in 1975. You&apos;ve mastered the रसोई rasoī, from the बेलन belan to the प्रेशर कुकर presher kukar, and finished the free levels! Every round roti off your तवा tavā is a little lesson in π. Pick any level you like.</string>
+	<key>3 img1</key>
+	<string>Aryabhata1.jpeg</string>
+	<key>3 img2</key>
+	<string>Aryabhata2.jpeg</string>
+</dict>
+</plist>
